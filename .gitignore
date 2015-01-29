@@ -1,0 +1,6 @@
+build
+build/**
+.gradle
+.gradle/**
+.nb-gradle
+.nb-gradle/**
